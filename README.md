@@ -1,5 +1,7 @@
 # AI in Healthcare
 
+![](https://oren.github.io/images/ghost-big.jpg)
+
 ---
 
 # Healthcare Domains
@@ -19,12 +21,18 @@
 
 ---
 
+# AI Platforms
+Alexa, Cortana, Siri, Google assistant
+
+---
+
 # Problems with AI
 * Managing AI bias
 * Economic impact of automation
 * The need to ensure that any intelligent systems we develop share our ethical and moral values.
 
 ---
+
 # AI Research
 * Productivity
 * Vision
@@ -45,32 +53,32 @@
 
 ---
 
-# vision
+# Vision
 Samantha from 'Her' helps with counting trees and brain cells
 help with professional life. sent books to the publisher
 
 ---
 
-# AI Platforms
-Alexa, Cortana, Siri, Google assistant
-
----
-
-# The movie Her
+# Movie - Her
 Intuition. Samantha. scarlet's voice
 * 1:45:30
 
 ---
 
-Kate Bush's song - Deeper Understanding. [Youtube](
+# Song - Deeper Understanding by Kate Bush. 
+* [Youtube](
   https://www.youtube.com/watch?v=nzqF_gBpS84).
 
 ---
 
-# TV show Black Mirror
+# TV show - Black Mirror
 Episodes:
 * White Christmas
 * [Be Right Back](
   https://en.wikipedia.org/wiki/Be_Right_Back)
+
+---
+
+# Movie - Ghost in the shell
 
 ---
