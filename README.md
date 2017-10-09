@@ -15,7 +15,14 @@
 ---
 
 # Applications
-* sleeptech
+* surgeries
+* nursing
+* Admin
+* Fraud
+* Drug dosage accuracy and compliance
+* Clinical trial participant identifier
+* Diagnosis
+* Sleeptech
 * personalized health and data
 * behavioral health and patient engagement
 
