@@ -28,6 +28,16 @@
 
 ---
 
+# biology and technology
+
+* Life = data + code
+* Synthetic biology
+* DNA as programmable matter
+* Gene editing - CRISPR
+* Bio hacking
+
+---
+
 # AI Platforms
 Alexa, Cortana, Siri, Google assistant
 
@@ -53,7 +63,7 @@ Alexa, Cortana, Siri, Google assistant
 # Resources
 
 * DeepMind launches new research team to investigate AI ethics - [Link](https://www.theverge.com/2017/10/4/16417978/deepmind-ai-ethics-society-research-group).
- 
+
 * https://health2con.com/conferences/
 
 * New deep learning research - [Link](http://www.metafilter.com/169839/the-most-important-part-of-learning-is-actually-forgetting).
@@ -72,7 +82,7 @@ Intuition. Samantha. scarlet's voice
 
 ---
 
-# Song - Deeper Understanding by Kate Bush. 
+# Song - Deeper Understanding by Kate Bush.
 * [Youtube](
   https://www.youtube.com/watch?v=nzqF_gBpS84).
 
