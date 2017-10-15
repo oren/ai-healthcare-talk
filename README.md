@@ -76,26 +76,11 @@ help with professional life. sent books to the publisher
 
 ---
 
-# Movie - Her
-Intuition. Samantha. scarlet's voice
-* 1:45:30
+# Media
 
----
-
-# Song - Deeper Understanding by Kate Bush.
-* [Youtube](
-  https://www.youtube.com/watch?v=nzqF_gBpS84).
-
----
-
-# TV show - Black Mirror
-Episodes:
-* White Christmas
-* [Be Right Back](
-  https://en.wikipedia.org/wiki/Be_Right_Back)
-
----
-
-# Movie - Ghost in the shell
+* Movie - Her (1:45:30).
+* Movie - Ghost in the shell.
+* Song - Deeper Understanding by Kate Bush - https://www.youtube.com/watch?v=nzqF_gBpS84.
+* TV show - Black Mirror. Episodes: White Christmas and Be Right Back.
 
 ---
