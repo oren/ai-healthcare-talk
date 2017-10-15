@@ -70,12 +70,6 @@ Alexa, Cortana, Siri, Google assistant
 
 ---
 
-# Vision
-Samantha from 'Her' helps with counting trees and brain cells
-help with professional life. sent books to the publisher
-
----
-
 # Media
 
 * Movie - Her (1:45:30).
