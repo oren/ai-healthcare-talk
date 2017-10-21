@@ -4,37 +4,49 @@
 
 ---
 
+>"I don't think any physician today should be practicing without artificial intelligence assisting in thier practice. It's just impossible (otherwise) to pick up on patterns and trends and to really monitor care"
+
+Bernard Tyson
+CEO, Kaiser Permanente
+
+![](bernard-tyson.jpg)
+
+---
+
 # Healthcare Domains
 * Preventive care - preventing disease through life style.
 * Curative care - curing the disease.
 * Palliative care - reducing the severity of symptoms.
 * Rehabilitative care.
-* Drug and treatment discovery (clinical trials)
+* Drug discovery (clinical trials)
 * Security and privacy
 
 ---
 
 # Applications
-* surgeries
-* nursing
+* Surgeries
+* Nursing
 * Admin
 * Fraud
 * Drug dosage accuracy and compliance
 * Clinical trial participant identifier
 * Diagnosis
 * Sleeptech
-* personalized health and data
-* behavioral health and patient engagement
+* Personalized health and data
+* Behavioral health and patient engagement
 
 ---
 
-# biology and technology
+# Drug Discovery
 
-* Life = data + code
-* Synthetic biology
-* DNA as programmable matter
-* Gene editing - CRISPR
-* Bio hacking
+Deep Generative Adversarial Networks
+
+---
+
+> "There are many interesting recent development in deep learning…The most important one, in my opinion, is adversarial training (also called GAN for Generative Adversarial Networks). This, and the variations that are now being proposed is the most interesting idea in the last 10 years in ML, in my opinion."
+
+Yann LeCun, 
+Director of AI research at Facebook
 
 ---
 
