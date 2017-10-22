@@ -3,6 +3,8 @@
 
 ![](https://oren.github.io/images/ghost-big.jpg)
 
+Presentation at 2017 Southern California Big Data Discovery Summit.
+
 ---
 
 Alternative title:
