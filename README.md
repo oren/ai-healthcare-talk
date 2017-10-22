@@ -20,16 +20,6 @@ CEO, Kaiser Permanente
 
 ---
 
-Novartis Uses AWS to Conduct 39 Years of Computational Chemistry In 9 Hours
-
----
-
----
-
-
-
----
-
 # Healthcare Domains
 * Preventive care - preventing disease through life style.
 * Curative care - curing the disease.
@@ -54,11 +44,6 @@ Novartis Uses AWS to Conduct 39 Years of Computational Chemistry In 9 Hours
 
 ---
 
-# Drug Discovery
-
-Deep Generative Adversarial Networks
-
----
 
 > "There are many interesting recent development in deep learning…The most important one, in my opinion, is adversarial training (also called GAN for Generative Adversarial Networks). This, and the variations that are now being proposed is the most interesting idea in the last 10 years in ML, in my opinion."
 
@@ -86,6 +71,16 @@ Alexa, Cortana, Siri, Google assistant
 * Emotion
 * Memory
 * Intelligence
+
+---
+
+Novartis Uses AWS to Conduct 39 Years of Computational Chemistry In 9 Hours
+
+---
+
+# Drug Discovery
+
+Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks
 
 ---
 
