@@ -1,6 +1,13 @@
 # AI, Healthcare, and the Sopranos test
 
+
 ![](https://oren.github.io/images/ghost-big.jpg)
+
+---
+
+Alternative title:
+
+# Grey goo or the Self-replicating spacecraft
 
 ---
 
@@ -10,6 +17,16 @@ Bernard Tyson
 CEO, Kaiser Permanente
 
 ![](bernard-tyson.jpg)
+
+---
+
+Novartis Uses AWS to Conduct 39 Years of Computational Chemistry In 9 Hours
+
+---
+
+---
+
+
 
 ---
 
@@ -45,7 +62,7 @@ Deep Generative Adversarial Networks
 
 > "There are many interesting recent development in deep learning…The most important one, in my opinion, is adversarial training (also called GAN for Generative Adversarial Networks). This, and the variations that are now being proposed is the most interesting idea in the last 10 years in ML, in my opinion."
 
-Yann LeCun, 
+Yann LeCun,
 Director of AI research at Facebook
 
 ---
