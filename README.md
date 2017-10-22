@@ -20,6 +20,10 @@ CEO, Kaiser Permanente
 
 ---
 
+![chihuahua](chihuahua-muffin.jpg)
+
+---
+
 # Healthcare Domains
 * Preventive care - preventing disease through life style.
 * Curative care - curing the disease.
