@@ -13,7 +13,7 @@ Alternative title:
 
 ---
 
->"I don't think any physician today should be practicing without artificial intelligence assisting in thier practice. It's just impossible (otherwise) to pick up on patterns and trends and to really monitor care"
+>"I don't think any physician today should be practicing without artificial intelligence assisting in their practice. It's just impossible (otherwise) to pick up on patterns and trends and to really monitor care"
 
 Bernard Tyson
 CEO, Kaiser Permanente
@@ -27,7 +27,7 @@ CEO, Kaiser Permanente
 ---
 
 # Healthcare Domains
-* Preventive care - preventing disease through life style.
+* Preventive care - preventing disease through lifestyle.
 * Curative care - curing the disease.
 * Palliative care - reducing the severity of symptoms.
 * Rehabilitative care.
@@ -66,7 +66,7 @@ Alexa, Cortana, Siri, Google assistant
 # Problems with AI
 * Managing AI bias
 * Economic impact of automation
-* The need to ensure that any intelligent systems we develop share our ethical and moral values.
+* The need to ensure that any intelligent systems we develop share our ethical and moral values
 
 ---
 
