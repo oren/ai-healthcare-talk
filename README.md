@@ -58,11 +58,6 @@ Director of AI research at Facebook
 
 ---
 
-# AI Platforms
-Alexa, Cortana, Siri, Google assistant
-
----
-
 # Problems with AI
 * Managing AI bias
 * Economic impact of automation
