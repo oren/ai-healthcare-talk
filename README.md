@@ -103,11 +103,19 @@ The Von Neumann probe
 
 ---
 
+![center](life3.jpg)
+
+---
+
+![center](where.jpg)
+
+---
+
 # Media
 
-* Movie - Her (1:45:30)
-* Movie - Ghost in the shell
-* TV show - Black Mirror. Episodes: White Christmas and Be Right Back.
+* Her
+* Ghost in the shell
+* Black Mirror, episode: White Christmas
 
 ---
 
