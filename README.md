@@ -1,9 +1,20 @@
+<!-- page_number: true -->
+
 # AI, Healthcare, and the Sopranos test
 
 
 ![](https://oren.github.io/images/ghost-big.jpg)
 
 Presentation at 2017 Southern California Big Data Discovery Summit
+
+---
+
+# Oren Golan
+Software Development Manager, Amazon
+
+* Website: oren.github.io
+* Email: orengolan@gmail.com
+* Twitter: oreng
 
 ---
 
@@ -50,6 +61,27 @@ CEO, Kaiser Permanente
 
 ---
 
+# AI Research
+* Productivity
+* Vision
+* Dialog
+* Emotion
+* Memory
+* Intelligence
+
+---
+
+# Drug Discovery
+
+Novartis Uses AWS to Conduct 39 Years of Computational Chemistry In 9 Hours
+
+---
+
+# Drug Discovery
+
+Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks
+
+---
 
 > "There are many interesting recent development in deep learning. The most important one, in my opinion, is adversarial training (also called GAN for Generative Adversarial Networks). This, and the variations that are now being proposed is the most interesting idea in the last 10 years in ML, in my opinion."
 
@@ -65,41 +97,19 @@ Director of AI research at Facebook
 
 ---
 
-# AI Research
-* Productivity
-* Vision
-* Dialog
-* Emotion
-* Memory
-* Intelligence
+# AI Aftermath Scenarios
 
----
-
-Novartis Uses AWS to Conduct 39 Years of Computational Chemistry In 9 Hours
-
----
-
-# Drug Discovery
-
-Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks
-
----
-
-# Resources
-
-* DeepMind launches new research team to investigate AI ethics - [Link](https://www.theverge.com/2017/10/4/16417978/deepmind-ai-ethics-society-research-group).
-
-* https://health2con.com/conferences/
-
-* New deep learning research - [Link](http://www.metafilter.com/169839/the-most-important-part-of-learning-is-actually-forgetting).
+The Von Neumann probe
 
 ---
 
 # Media
 
-* Movie - Her (1:45:30).
-* Movie - Ghost in the shell.
-* Song - Deeper Understanding by Kate Bush - https://www.youtube.com/watch?v=nzqF_gBpS84.
+* Movie - Her (1:45:30)
+* Movie - Ghost in the shell
 * TV show - Black Mirror. Episodes: White Christmas and Be Right Back.
 
 ---
+
+# Thank you!
+
